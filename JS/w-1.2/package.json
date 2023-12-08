@@ -1,0 +1,11 @@
+{
+  "name": "w-1.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toDo.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "Ayush",
+  "license": "ISC"
+}
