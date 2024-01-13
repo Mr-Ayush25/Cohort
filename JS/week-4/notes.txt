@@ -1,0 +1,7 @@
+# What is React and it's Helper Component.
+# Crucs or Works of React.
+-> Main job of react is to track the changes from old State to new State. OR Find the diffrence between Old and New State on the basis of that perform the required Operation.
+# React Dom.
+-> It is responsible for Updation of UI. Changing The UI on basis of requirement is Done using React DOM. Written by react Developer.
+# Component.
+-> It is the general basic logic that we (Developers) work on how the basic UI is going to be look like.
